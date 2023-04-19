@@ -25,3 +25,5 @@
   <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="right" alt="Helo-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1613694671217115136/CVFmweQu_400x400.jpg">
 </div>
+
+! [Snake animation](https://github.com/helosantosdesousa/helosantosdesousa/blolb/output/github-contribution-grid-snake.svg)
