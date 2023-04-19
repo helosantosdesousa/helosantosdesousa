@@ -26,4 +26,4 @@
    <img align="right" alt="Helo-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1613694671217115136/CVFmweQu_400x400.jpg">
 </div>
 
-! [Snake animation](https://github.com/helosantosdesousa/helosantosdesousa/blolb/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/helosantosdesousa/helosantosdesousa/blolb/output/github-contribution-grid-snake.svg)
