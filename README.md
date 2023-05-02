@@ -15,7 +15,7 @@
  - 🌎 Brasileira
  - 📩 Instagram: @lisacoding
  
-[![Heloísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=helosantosdesousa)](https://github.com/helosantosdesousa/github-readme-stats)
+
 
 
 <div style="display: inline_block"><br>
