@@ -1,6 +1,6 @@
-### Hi there 👋
- I'm a begginer dev learning HTML,CSS and JavaScript. Yes, I'm probably in need of helping hands! 📖
- - 🛫 On my way to becoming a Front-End
+### Hey there 👋
+Just a beginner dev printing hello world 📖
+ - 🛫 On my way to become a software enginner
  - 📍 I speak english and portuguese (I understand a bit of spanish)
  - 💕 She/Her :)
  - 🌎 Brazilian
@@ -8,8 +8,8 @@
 
 
 ### Oiie! 👋
- Estou iniciando na programção e estudo HTML,CSS e JavaScript. Sim, provavelmente eu estou precisando de ajuda! 📖
- - 🛫 No meu caminho para me tornar Front-End
+Dev iniciante printando seus "hello world" 📖
+ - 🛫 No meu caminho para me tornar engenheira de software
  - 📍 Falo inglês e português (Consigo entender espanhol)
  - 💕 Ela/Dela :)
  - 🌎 Brasileira
@@ -19,7 +19,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Helo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
