@@ -1,20 +1,5 @@
 ### Hey there 👋
-Just a beginner dev printing hello world 📖
- - 🛫 On my way to become a software enginner
- - 📍 I speak english and portuguese (I understand a bit of spanish)
- - 💕 She/Her :)
- - 🌎 Brazilian
- - 📩 Instagram: @lisacoding
-
-
-### Oiie! 👋
-Dev iniciante printando seus "hello world" 📖
- - 🛫 No meu caminho para me tornar engenheira de software
- - 📍 Falo inglês e português (Consigo entender espanhol)
- - 💕 Ela/Dela :)
- - 🌎 Brasileira
- - 📩 Instagram: @lisacoding
- 
+Brazilian tech student passionate for security and AI
 
 
 
