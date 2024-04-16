@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7156C&random=false&width=435&lines=Oie!+Aqui+%C3%A9+a+Hel%C3%B4!)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71599&random=false&width=435&lines=Hey!+I'm+Helo)](https://git.io/typing-svg)
 Brazilian tech student passionate for security and AI
 
 <div style="display: inline_block"><br>
