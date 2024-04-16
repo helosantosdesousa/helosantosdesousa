@@ -1,9 +1,5 @@
-### Hey there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7156C&random=false&width=435&lines=Oie!+Aqui+%C3%A9+a+Hel%C3%B4!)](https://git.io/typing-svg) 👋
 Brazilian tech student passionate for security and AI
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7156C&random=false&width=435&lines=Oie!+Aqui+%C3%A9+a+Hel%C3%B4!)](https://git.io/typing-svg)
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
