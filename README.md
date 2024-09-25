@@ -23,7 +23,8 @@
 </div>
 
 <h3>GitHub Stats</h3>
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=helosantosdesousa&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/helosantosdesousa/github-readme-stats)
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helosantosdesousa&layout=compact"/>
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=helosantosdesousa&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/helosantosdesousa/github-readme-stats)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helosantosdesousa)](https://github.com/anuraghazra/github-readme-stats)-->
 <br>
 
