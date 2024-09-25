@@ -1,12 +1,14 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71599&random=false&width=435&lines=Hey!+I'm+Helo)](https://git.io/typing-svg)
-Brazilian tech student passionate for security and AI
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7118E&width=435&lines=Hey+there!+I'm+Hel%C3%B4+%3DD)](https://git.io/typing-svg)
+### Brazilian tech student
+My passion for technology began in childhood, inspired by movies and a desire to create and innovate. Now as a second-year Information Systems student at FIAP, I’ve focused on developing projects in software, mobile, databases, SQL, AI and information security. I’m also deepening my understanding of algorithms and data structures to enhance my programming practices. With a natural curiosity and a commitment to dedication and organization, I strive to create efficient and functional solutions in my studies and beyond.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Helo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Helo-CSS" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Helo-JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902">
-  <img align="center" alt="Helo-BootStrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
+  <img align="center" alt="Helo-Js" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Helo-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Helo-CSS" height="60" width="65" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+  <img align="center" alt="Helo-JS" height="60" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902">
+  <img align="center" alt="Helo-BootStrap" height="60" width="70" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="Helo-Kotlin" height="65" width="80" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
 
 </div>
 
