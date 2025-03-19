@@ -1,6 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7118E&width=435&lines=Hey+there!+I'm+Hel%C3%B4+%3DD)](https://git.io/typing-svg)
 ### Brazilian tech student
-> My passion for technology began in childhood, inspired by movies and a desire to create and innovate. Now as a second-year Information Systems student at FIAP, I’ve focused on developing projects in software, mobile, databases, SQL, AI and information security. I’m also deepening my understanding of algorithms and data structures to enhance my programming practices. With a natural curiosity and a commitment to dedication and organization, I strive to create efficient and functional solutions in my studies and beyond.
+> Certified by Cambridge (FCE) and pursuing a degree in Information Systems, I am preparing to work as a software developer with a focus on Mobile Programming (Android and Cross-Platform). I have solid knowledge in Java, data structures, databases, and web development, and I’m currently diving into mobile development, exploring new technologies to create applications that make people's daily lives easier and more efficient.
+Beyond tech, my experience with dance at EMARP taught me discipline, focus, and adaptability—skills I carry into software development and problem-solving. I’m curious, enjoy challenges, and value dedication and organization in continuous learning. I am actively seeking internship opportunities and projects to apply my knowledge and grow professionally.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helo-Js" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
