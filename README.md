@@ -12,7 +12,9 @@ Beyond tech, my experience with dance at EMARP taught me discipline, focus, and 
   <img align="center" alt="Helo-Kotlin" height="65" width="80" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
   <img align="center" alt="Helo-SQL" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png">
   <img align="center" alt="Helo-Python" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp">
+  <a href="https://www.credly.com/badges/b8aacdcf-1d86-4ab8-a824-bd86451a71d2/print" target="_blank"><img align="center" alt="Helo-Python" height="60" width="60" src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"></a>
 </div>
+
 <br>
 <br>
 <div> 
