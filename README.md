@@ -5,13 +5,12 @@ Beyond tech, my experience with dance at EMARP taught me discipline, focus, and 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java logo" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center"alt="Clojure logo" height="60" widt="70" 
+    src="https://github.com/user-attachments/assets/2bbf3bca-abc6-48ce-a984-820f3422d761">
+  <img align="center" alt="Helo-Python" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp">
   <img align="center" alt="HTML logo" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS logo" height="60" width="65" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-  <img align="center" alt="JavaScript logo" height="60" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902">
   <img align="center" alt="BootStrap logo" height="60" width="70" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png">
-  <img align="center" alt="Kotlin logo" height="65" width="80" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
-  <img align="center" alt="SQL logo" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png">
-  <img align="center" alt="Helo-Python" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp">
   <a href="https://www.credly.com/badges/b8aacdcf-1d86-4ab8-a824-bd86451a71d2/print" ><img align="center" alt="Github foundations badge" height="60" width="60" src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"></a>
 </div>
 
@@ -19,7 +18,6 @@ Beyond tech, my experience with dance at EMARP taught me discipline, focus, and 
 <br>
 <div> 
   <a href="https://www.youtube.com/@lisacoding" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lisacoding" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:helosantosdesousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helo%C3%ADsa-santos-sousa/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
